@@ -1,0 +1,12 @@
+printed ones 
+    http://ieeexplore.ieee.org/document/918473/ ok
+    https://www.sciencedirect.com/science/article/pii/S0933365712001108#bib0180 ok
+    https://www.sciencedirect.com/science/article/pii/S0957417416302354#bib0023 ok
+    https://www.sciencedirect.com/science/article/pii/S0933365713001589 ok
+    https://www.nature.com/articles/nature21056 ok
+    https://hal-univ-bourgogne.archives-ouvertes.fr/hal-01250955/document ok
+
+workshop
+    
+https://workshop2021.isic-archive.com/
+https://workshop2020.isic-archive.com/#paper
