@@ -3,6 +3,8 @@
 This repository contains the code for the project **Fine-Tuning and Boosting AlexNet for Skin Lesion Classification**. The primary objective is to classify skin lesions using an AlexNet-based deep learning architecture, fine-tuned with physical data augmentation techniques to enhance performance.
 
 link to the competition : https://www.kaggle.com/competitions/ima205-challenge-2024/leaderboard
+
+
 Detailed report is in : IMA_205_Project_report_AlexNet_for_Skin_lesion_classification
 
 ## Overview
